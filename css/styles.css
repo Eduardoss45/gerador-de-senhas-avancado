@@ -13,7 +13,7 @@ body {
 }
 
 html {
-  background-image: linear-gradient(180deg, #ea02ff 0%, #0097ff 100%);
+  background-image: linear-gradient(180deg, #ffe102 0%, #00ff51 100%);
 }
 
 input:focus {
@@ -37,7 +37,7 @@ input:focus {
 }
 
 #banner-layer {
-  background-color: rgba(25, 11, 122, 0.7);
+  background-color: rgba(11, 122, 48, 0.7);
   height: 100%;
   padding: 2rem;
   display: flex;
